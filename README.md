@@ -6,7 +6,7 @@ Aufbereitung und Darstellung der Radverkehrsdaten aus dem Movebis-Projekt [1].
 
 Im Rahmen von"Stadtradeln" hat das Movebis-Projekt deutschlandweit GPS-Tracks von teilnehmenden Radfahrer*innen gesammelt. Anzahl Beochtungen und durchschnittl. Geschwindigkeiten sind OSM-Links zugefügt worden und können nun auf mcloud [2] heruntergeladen werden.
 
-![image-20210130103301594](C:\Users\Simon\AppData\Roaming\Typora\typora-user-images\image-20210130103301594.png)
+![image-20210130103301594](overview_deutschland.png)
 
 
 
@@ -14,16 +14,20 @@ Im Rahmen von"Stadtradeln" hat das Movebis-Projekt deutschlandweit GPS-Tracks vo
 
 ##  Beispiel Berlin:
 
-![image-20210130103641925](C:\Users\Simon\AppData\Roaming\Typora\typora-user-images\image-20210130103641925.png)
+Für Berlin sind hier die Datenverfügbarkeit und die Geschwindigkeit statisch darstellst. Für den Berliner Innenring habe ich nun alle Straßenabschnitte  mit mehr als 100 Beobachtungen (~20k) hier dargestellt:
+https://vizsim.github.io/movebis/movebis_speed_hundekopf_100.html
 
 
 
-![image-20210130105130347](C:\Users\Simon\AppData\Roaming\Typora\typora-user-images\image-20210130105130347.png)
+![image-20210130103641925](avail_berlin.png)
 
 
 
-Für den Berliner Innenring habe ich nun alle Straßenabschnitte  mit mehr als 100 Beobachtungen (~20k) hier dargestellt:
-....
+![image-20210130105130347](speed_berlin.png)
+
+
+
+
 
 
 
